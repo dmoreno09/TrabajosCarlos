@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><entrenamientos>
+	<entrenamiento id="2">
+	<nombre>GYM</nombre>
+	<duracion>40</duracion>
+	<nivel>Avanzado</nivel>
+</entrenamiento>
+	<entrenamiento id="3">
+	<nombre>Diego</nombre>
+	<duracion>300</duracion>
+	<nivel>basico</nivel>
+</entrenamiento>
+	
+	<entrenamiento id="4">
+	<nombre>Futbol</nombre>
+	<duracion>30</duracion><nivel>Itermedio</nivel></entrenamiento>
+	</entrenamientos>
